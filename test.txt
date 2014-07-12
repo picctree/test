@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ÄãºÃnini hao ni hao 
 
+=======
+ÄãºÃni hao 
+>>>>>>> 078eff5f43480f4f70facffefcb920d854e306e0
